@@ -1,7 +1,7 @@
 [![@aswijaya's Holopin board](https://holopin.io/api/user/board?user=aswijaya)](https://holopin.io/@aswijaya)
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Adrian%20Sugandi%20Wijaya;Web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&size=22&pause=1000"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Adrian%20S%20Wijaya;Web%20developer;&font=Fira%20Code&center=true&width=440&height=45&color=4078c0&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <h2 align="center">
