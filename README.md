@@ -13,7 +13,7 @@ Hi, nice to see you here!👋
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/smartricecooker)
 
 <p>
-I'm Adrian (<i>Ian</i>), software engineering student at  <a target="_blank" href="https://www.upi.edu/">📚Universitas Pendidikan Indonesia</a> (<i>Indonesia University of Education</i>) who currently working as information technology development intern at <a target="_blank" href="aiia.co.id">💼PT. Aisin Indonesia Automotive</a>. My dream is to live a happy, peaceful and <b><i>simple</i></b> life with:
+I'm Adrian (<i>Ian</i>), software engineering student at  <a href="https://www.upi.edu/">📚Universitas Pendidikan Indonesia</a> (<i>Indonesia University of Education</i>) who currently working as information technology development intern at <a href="aiia.co.id">💼PT. Aisin Indonesia Automotive</a>. My dream is to live a happy, peaceful and <b><i>simple</i></b> life with:
 <ul>
 <li>Lamborghini Aventador SVJ Roadster🏎</li>
 <li>Mazda Rx-7👀</li>
