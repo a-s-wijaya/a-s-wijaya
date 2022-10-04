@@ -20,8 +20,8 @@ I'm Adrian (<i>Ian</i>), software engineering student at  <a href="https://www.u
 <li>Ducati Panigale V4SP🏍</li>
 <li>My cats🐈</li>
 </ul>
-This is my journey to be a better software engineer (<i>mainly focused on web developer</i>).
-Don't forget to havve some coffe and a good, fun day!✨
+This is my journey to be a better software engineer (<i>specifically web developer</i>).
+Don't forget to have some coffe and a good, fun day!✨
 </p>
 
 <h3>Oh and also, some stats for you📊</h3>
