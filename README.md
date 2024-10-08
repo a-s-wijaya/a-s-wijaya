@@ -14,6 +14,10 @@ Hi, nice to see you here!👋 I'm Adrian (<i>Ian</i>)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/adrian.sugandi/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/smartricecooker)
 
+<h3 align="center">
+This description is already outdated & I'm too lazy to update it, just know that I'm still alive and active
+</h3>
+
 I'm an software engineer student at <a href="https://www.upi.edu/">📚Universitas Pendidikan Indonesia</a> (<i>Indonesia University of Education</i>) who currently working as information technology development intern at <a href="https://aiia.co.id/">💼PT. Aisin Indonesia Automotive</a>.
   
 My dream is to live a happy, peaceful and <b><i>simple</i></b> life with:
